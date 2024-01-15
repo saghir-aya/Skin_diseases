@@ -28,4 +28,9 @@ EfficientNetB7 is a variant of the EfficientNet architecture, known for its scal
 
 Both approaches demonstrate effective strategies for improving the accuracy of a skin cancer classification model. The focal loss function addresses class imbalance, while the integration of EfficientNetB7 leverages a more advanced architecture, resulting in enhanced accuracy. Researchers and practitioners can explore and compare these approaches based on their specific requirements and resource constraints.
 
-Feel free to explore the code in this repository to gain insights into the implementation details of each approach. If you have any questions or suggestions, please don't hesitate to reach out. Happy coding!
+Feel free to explore the code in this repository to gain insights into the implementation details of each approach. If you have any questions or suggestions, please don't hesitate to reach out. 
+
+Happy coding!
+
+
+Realised by : BOUKTIB Salma, SAGHIR Aya and KHARBOUCH Hamza
